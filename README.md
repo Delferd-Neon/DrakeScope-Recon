@@ -1,3 +1,9 @@
+<!-- <img width="1491" height="417" alt="image" src="https://github.com/user-attachments/assets/87ea0e88-7b68-4aec-b359-a79d4b26c58b" />
+<img width="1536" height="500" alt="Drake scope recon" src="https://github.com/user-attachments/assets/abcd0e06-081e-4086-9cd7-021d5c13f2c8" /> -->
+<!-- <img width="612" height="408" alt="Drake_scope_recon-removebg-preview" src="https://github.com/user-attachments/assets/ef41ed59-e7a3-4d75-b1c2-3b6990ad1f27" -->
+<img width="1536" height="1024" alt="DrakeRecon logo-Photoroom" src="https://github.com/user-attachments/assets/12d445f8-7037-41b5-8251-0ec1c40d16d0" />
+
+
 # DrakeScope Recon
 
 DrakeScope Recon is a small web dashboard for authorized directory and subdomain enumeration. It blocks scans unless the requested host is present in the local SQLite allowlist.
